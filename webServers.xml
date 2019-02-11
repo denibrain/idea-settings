@@ -1,0 +1,12 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="33751c7e-d7c6-472f-aa74-e1a4db92f351" name="ldap-panel.local" url="http://ldap-panel.local/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="f3bfa285-a6a3-41ae-ac64-2386330e288a" name="syspass" url="http://syspass.loc">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>

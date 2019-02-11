@@ -1,0 +1,69 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Project w/o spelling">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spelling</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="10.14.2" last-modified="1544479133000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesViewManager.DETAILS_SPLITTER_PROPORTION" value="0.24499796" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.47130835" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.7224138" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DBE.Default.Dialect" value="" />
+    <property name="Darcula.SavedEditorTheme" value="_@user_Darcula" />
+    <property name="Default.SavedEditorTheme" value="_@user_Default" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="Drupal Hook Implementation Doc Comment" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_HORIZONTAL" value="18" />
+    <property name="JSHintOptionsTreeView.TREE_SCROLL_BAR_VERTICAL" value="0" />
+    <property name="JSHintOptionsTreeView.TREE_SELECTED_NODE_ID" value="1" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PLUGIN_FILTER" value="ign&#10;igno&#10;ig&#10;js" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PhpUnitSupport.hideIgnoredTests" value="false" />
+    <property name="PhpUnitSupport.hidePassedTests" value="false" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="I&#10;$&#10;-&gt;&#10;arra&#10;//" />
+    <property name="SettingsSearchHistory" value="smart k&#10;smart&#10;extens" />
+    <property name="SqlStructureView.filterD.file.structure.state" value="true" />
+    <property name="TrendingPluginsSearchHistory" value="waka&#10;javascript" />
+    <property name="Vcs.Log.Text.Filter.History" value="3712&#10;3742&#10;#7250&#10;#7431&#10;#7235" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="evlsprt3.182" value="14" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="/var/www/fxcompared-v3/common/processors/Filters&#10;/var/www/fxcompared-v3/common/models/Locator&#10;/var/www/fxcompared-v3/CdnContent&#10;/var/www/fxcompared-v3/Admin/db/migrations&#10;/var/www/fxcompared-v3&#10;/usr/bin/pinta&#10;/var/www/core/tests/classes/phpunit.xml&#10;/var/www/core/tests/classes/bootstrap.php&#10;/usr/share/php/phpunit.phar&#10;/var/www/core/tests/classes&#10;/var/www/fxcompared-v3/utilities/canonical-checker/crawl.php&#10;/var/www/fxcompared-v3/common/mailer&#10;/var/www/ldap-panel/vendor&#10;/var/www/fxcompared_cron/wget/companyRating.php&#10;/var/www/fxcompared_cron/composer.json&#10;/var/www/fxcompared_cron/wget/XigniteDaily.php&#10;/var/www/fxcompared-v3/utilities&#10;/var/www/fxcompared_cron&#10;/var/www/fxcompared_cron/wget/apiUsage.php&#10;/var/www/rx/localhost.inc&#10;/var/www/fxcompared-v3/concrete5/application&#10;/var/www/fxcompared-v3/CdnContent/ui&#10;/var/www/fxcompared-v3/api/bank-margin/cronjob.php&#10;/var/www/fxc-wp/public/wp-content/plugins/tailor&#10;/var/www/fxcompared-v3/api/comparison/vendor&#10;/var/www/fxcompared-v3/CdnContent/admin&#10;/var/www/fxcompared-v3/Admin&#10;/var/www/fxcompared-v3/common/models/CurrencyModel.php&#10;/usr/bin/php7.1" />
+    <property name="file.gist.reindex.count" value="507033" />
+    <property name="fileTypeChangedCounter" value="8" />
+    <property name="js.rename.search.for.text.occurrences" value="false" />
+    <property name="js.rename.search.in.comments" value="true" />
+    <property name="lastTip" value="2" />
+    <property name="settings.code.style.selected.tab.PHP" value="Tabs and Indents" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.22743978" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.48188406" />
+    <property name="vcs.log.diff.splitter.proportion" value="0.45120457" />
+  </component>
+</application>
